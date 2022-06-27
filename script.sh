@@ -1,0 +1,1 @@
+oc new-app --name greet -i nodejs:12 https://github.com/fallmo/DO288-apps#source-build --context-dir nodejs-helloworld --build-env npm_config_registry=http://nexus-common.apps.cluster.domain.example.com/repository/nodejs
