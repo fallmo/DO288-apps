@@ -1,0 +1,3 @@
+echo "custom run script..."
+
+exec /opt/app-root/app --lang es
