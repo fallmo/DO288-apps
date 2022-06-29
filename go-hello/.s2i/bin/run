@@ -1,0 +1,3 @@
+echo "Custom Start Script"
+
+exec /opt/app-root/app --lang es
