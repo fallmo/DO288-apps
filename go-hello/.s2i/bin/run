@@ -1,0 +1,2 @@
+# Custom Run Script #
+exec /opt/app-root/app --lang es
